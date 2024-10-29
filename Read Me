@@ -5,3 +5,69 @@ en este archivo sera el log de proyecto ademas de inclurir la estructura de las 
 03-10-2024
 se añadio visual studio y git a la pc de kathedra 
 
+realizar un sistema que permita llevar un estado contable de entradas y salidas 
+
+los activos que registraremos son:
+
+Material
+     Material Carpinteros
+        cocina, closet, vestido, mueble de baño
+        Melamina
+            depende del despiese por proyecto
+            tablas cortadas de Melamina
+            tapitas
+        Herraje
+            pijas
+            correderas
+            tubo oval
+            silicon
+            
+            
+
+     Material Cantero
+        cocina
+            piedra
+     Material Plomero
+        Monomando
+        cocina
+            Contracanasta
+            Cespol
+            Empaque
+        estufa
+            Mangera 3/8
+            niple
+
+
+
+Tabien la realizacion de un sistema que permirta el acceder a la informacion del estado de la operacion
+
+    Se nos asigna un pedio o un contraro que llega al correo de kathedra2011@gmail.com.
+    
+    Enternder diferencioa entre pedido y contrato
+
+    Al tener el pedido o contrato se nos dan 9 dias para tener lista la instalacion de equipos
+    En el correo se presenta toda la informacion a ocupar
+        Fraccionamiento.
+        Condominio.
+        No int.
+        Prototipo.
+        Nombre del cliente.
+
+    Una vez con esa informacion se procede a pedir el material correspondiente 
+        Del prototipo se saca el despiece 
+            El despiece incluye:
+                Cantidad de hojas de melamina para pedir a TRIPLAY
+                Corte de las hojas de melamina para mandar a maquilar en RIOMA, TRIPLAY o CARPINOVA
+                Herraje que se ocupa 
+                Tarja
+                Piedra
+        Una vez con toda la informacion se hace el pedido a los provedores correspondientes ya que nos confirmen una fecha de entrega
+        Se moviliza a los instaladores para descargar el material y se asignan los proyectos a uno o mas carpinteros
+        Se le hace un chequeo diario del progreso por casa
+        Primero entran los intaladores a armar y colocar los muebles de melamina
+        En caso de solo ser closet una vez listo de limpia y se entrega
+        En caso de tener cocina una vez instalados los muebles se consige la piedra en MarmolesNatura u otro...
+        ya con la piedra instalada se procede a instalacion de la estufa, campana, monomnado, cespol, contracanasta, tubo chupon.
+        Se realiza la limpieza final y se entrega la casa
+
+        
